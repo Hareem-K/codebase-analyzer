@@ -23,7 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
-# backend/.gitignore
+# secrets
 .env
+**/.env
+backend/.env
 __pycache__/
+**/__pycache__/
 *.pyc
