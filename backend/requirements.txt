@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-anthropic
+chromadb
+gitpython
+tiktoken
+python-dotenv
+requests
