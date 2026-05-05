@@ -2,8 +2,15 @@ fastapi
 uvicorn
 langchain
 langchain-anthropic
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-voyageai
+sentence-transformers
 chromadb
 gitpython
 tiktoken
 python-dotenv
 requests
+voyageai
